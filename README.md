@@ -25,9 +25,10 @@ Tek tıkla mesai'nizi kontrol edin
 1. Bot tokeninizi alın https://discord.com/developers/applications .
 2. .env.example dosyanının ismini .env yapın ve içindeki TOKEN= kısmına tokeninizi koyun.
 3. Bazı komutlar role özel bu komutları kullanmak için sunucunuzda "🏴" emojisi adında bir rol oluşturun.
-4. Komut istemini açın ve npm i yazın.
-5. Komut istemine node index.js yazın.
-6. Komut istemcisinde Bot İsmi is online yazıyorsa botunuz aktiftir kullanmaya başlayabilirsiniz.
+4. /mesai diye bir klasör oluşturun.
+5. Komut istemini açın ve npm i yazın.
+6. Komut istemine node index.js yazın.
+7. Komut istemcisinde Bot İsmi is online yazıyorsa botunuz aktiftir kullanmaya başlayabilirsiniz.
 
 
 # Örnek Resimler
