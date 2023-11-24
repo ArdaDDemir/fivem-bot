@@ -31,6 +31,7 @@ Tek tıkla mesai'nizi kontrol edin
 Herhangi bir yardıma ihtiyacınız olursa 
 Discord: https://discord.gg/WSybyPVnZn
 
-#Projede yararlandığım kaynaklar
+# Projede yararlandığım kaynaklar:
+
 https://github.com/notunderctrl/djs14-starter-files
 
